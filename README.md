@@ -20,3 +20,5 @@ A starting point for discovering the wonderful world of Git, GitHub, and Git Ann
 
 A. If there's time: what is Git Annex (Assistant)?
 
+Nick: I like the one where Bart acts up and annoys Homer.
+
